@@ -8,7 +8,7 @@ python-multipart==0.0.6
 
 # Vector Database Dependencies
 chromadb==0.4.15
-faiss-cpu==1.7.4
+faiss-cpu==1.12.0
 pinecone-client==2.2.4
 
 # Additional Dependencies
