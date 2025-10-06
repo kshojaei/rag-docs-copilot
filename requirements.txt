@@ -22,7 +22,7 @@ pytest-cov==4.1.0
 
 # Evaluation Dependencies
 rouge-score==0.1.2
-nltk==3.8.1
+nltk==3.9.2
 
 # Additional ML Dependencies
 transformers>=4.35.2
